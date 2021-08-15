@@ -3,9 +3,9 @@
   "name": "Saurabh Londhe",
   "icons": [
     {
-      "src": "favicon.svg",
+      "src": "favicon.png",
       "sizes": "64x64",
-      "type": "image/svg+xml"
+      "type": "image/png"
     },
     {
       "src": "icon-256.png",
