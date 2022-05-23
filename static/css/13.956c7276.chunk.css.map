@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Portrait/index.css"],"names":[],"mappings":"AAAA,UACE,iBACF,CAEA,kBACE,iBAAkB,CAClB,OACF","file":"13.956c7276.chunk.css","sourcesContent":[".portrait {\r\n  position: relative;\r\n}\r\n\r\n.portrait__canvas {\r\n  position: absolute;\r\n  inset: 0;\r\n}\r\n"]}
